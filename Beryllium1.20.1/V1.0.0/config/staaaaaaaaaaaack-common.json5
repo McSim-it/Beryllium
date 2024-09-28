@@ -1,0 +1,5 @@
+{
+	"maxMergeDistanceHorizontal": 4,
+	"maxMergeDistanceVertical": 2,
+	"enableForUnstackableItem": true,
+}
