@@ -1,4 +1,4 @@
-# **Beryllium - Performance Optimization for Future Modpacks**
+# **Beryllium - Performance Optimization Modpack**
 
 *Beryllium* is a Fabric-based optimization modpack created as a foundation for future modpacks by **Nexium**. Developed by an amateur modder, *Beryllium* draws heavy inspiration from the renowned *Adrenaline* modpack, incorporating many of its configuration techniques to enhance Minecraft’s performance—improving FPS, reducing lag, and speeding up load times. With 23 carefully chosen mods focused purely on optimization, *Beryllium* serves as a flexible base for players and modpack creators to build upon.
 
