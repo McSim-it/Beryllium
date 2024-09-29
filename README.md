@@ -25,3 +25,4 @@
 ---
 
 Whether you're looking to improve your Minecraft performance or use *Beryllium* as a foundation for future modpacks, this modpack combines the expert configuration of *Adrenaline* with the customization potential of an amateur creator’s vision. *Beryllium* is your gateway to smoother gameplay and better performance.
+![NEXIUM](https://github.com/user-attachments/assets/6713d39f-6795-48ad-a6f0-8ee660d97ae2)
